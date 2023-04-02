@@ -14,9 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Iury's GitHub stats](https://github-readme-stats.vercel.app/api?username=iurysza&show_icons=true&theme=dracula)](https://github.com/iurysza/github-readme-stats)
-
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iurysza&repo=module-graph&show_icons=true&theme=dracula)](https://github.com/iurysza/module-graph)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iurysza&repo=livematch&show_icons=true&theme=dracula)](https://github.com/iurysza/livematch)
