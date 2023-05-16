@@ -13,10 +13,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 Currently active on:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iurysza&repo=module-graph&show_icons=true&theme=dracula)](https://github.com/iurysza/module-graph)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iurysza&repo=livematch&show_icons=true&theme=dracula)](https://github.com/iurysza/livematch)
 
+-->
