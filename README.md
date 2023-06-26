@@ -2,14 +2,16 @@
 
 My last talks:
 
+
+![Droidcon San Francisco 2023](https://img.shields.io/static/v1?label=&message=Droidcon%20San%20Francisco%202023&color=555&logo=android&logoColor=000000)
+![Droidcon Berlin 2023](https://img.shields.io/static/v1?label=&message=Droidcon%20Berlin%202023&color=555&logo=android&logoColor=3FE4C5)
+
+
 [![AndroidMakers by Droidcon](https://img.shields.io/static/v1?label=&message=AndroidMakers%20by%20Droidcon%202022&color=555&logo=android&logoColor=4EB6E3)](https://youtu.be/zHoJEDjLtAY)
 [![Droidcon San Francisco 2022](https://img.shields.io/static/v1?label=&message=Droidcon%20San%20Francisco%2022&color=555&logo=android&logoColor=000000)](https://www.droidcon.com/2022/08/01/android-benchmarking-and-other-stories/)
 [![Droidcon Berlin 2022](https://img.shields.io/static/v1?label=&message=Droidcon%20Berlin%2022&color=555&logo=android&logoColor=3FE4C5)](https://www.droidcon.com/2022/08/01/android-benchmarking-and-other-stories-2/)
 [![Droidcon New York 2022](https://img.shields.io/static/v1?label=&message=Droidcon%20New%20York%2022&color=555&logo=android&logoColor=FF7258)](https://www.droidcon.com/2022/09/29/android-benchmarking-and-other-stories-3/)
 
-
-![Droidcon San Francisco 2023](https://img.shields.io/static/v1?label=&message=Droidcon%20San%20Francisco%202023&color=555&logo=android&logoColor=000000)
-![Droidcon Berlin 2023](https://img.shields.io/static/v1?label=&message=Droidcon%20Berlin%202023&color=555&logo=android&logoColor=3FE4C5)
 
 
 <!--
