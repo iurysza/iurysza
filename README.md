@@ -2,9 +2,10 @@
 
 My last talks:
 
+[![Droidcon San Francisco 2023](https://img.shields.io/static/v1?label=&message=Droidcon%20San%20Francisco%202023&color=555&logo=android&logoColor=000000)](https://www.droidcon.com/2023/07/20/crash-course-in-building-your-first-gradle-plugin/)
+[![Droidcon Berlin 2023](https://img.shields.io/static/v1?label=&message=Droidcon%20Berlin%202023&color=555&logo=android&logoColor=3FE4C5)](https://www.droidcon.com/2023/07/20/crash-course-in-building-your-first-gradle-plugin/)
 
-![Droidcon San Francisco 2023](https://img.shields.io/static/v1?label=&message=Droidcon%20San%20Francisco%202023&color=555&logo=android&logoColor=000000)
-![Droidcon Berlin 2023](https://img.shields.io/static/v1?label=&message=Droidcon%20Berlin%202023&color=555&logo=android&logoColor=3FE4C5)
+
 
 
 [![AndroidMakers by Droidcon](https://img.shields.io/static/v1?label=&message=AndroidMakers%20by%20Droidcon%202022&color=555&logo=android&logoColor=4EB6E3)](https://youtu.be/zhojedjltay)
