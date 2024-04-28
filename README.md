@@ -1,5 +1,9 @@
 ### Olá!
 
+I'm a mobile enthusiast turned Software Engineer and [GDE](https://developers.google.com/community/experts) for Android. 
+
+Hands on experience with lots of mobile tech and years of experience in this space. Feel free to reach out :v:.
+
 My last talks:
 
 [![Droidcon San Francisco 2023](https://img.shields.io/static/v1?label=&message=Droidcon%20San%20Francisco%202023&color=555&logo=android&logoColor=000000)](https://www.droidcon.com/2023/07/20/crash-course-in-building-your-first-gradle-plugin/)
