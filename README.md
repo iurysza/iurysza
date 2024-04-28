@@ -1,9 +1,9 @@
 ### Olá!
 
-I'm a mobile enthusiast turned Software Engineer and [GDE](https://developers.google.com/community/experts) for Android. 
-Hands on experience with most of the mobile tech stack and nearly a decade working in this space. 
+I'm a mobile enthusiast turned Software Engineer & [GDE](https://developers.google.com/community/experts) for Android. 
 
-Tech curious and craftsmanship advocate.
+Hands on experience with most of the mobile tech stack and nearly a decade working in this space. Tech curious and craftsmanship advocate.
+
 Feel free to reach out :v:.
 
 #### My last talks
