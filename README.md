@@ -6,15 +6,26 @@ Hands on experience with most of the mobile tech stack and nearly a decade worki
 
 Feel free to reach out :v:.
 
-#### Featured articles
+### Currently active on
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iurysza&repo=module-graph&show_icons=true&theme=dracula)](https://github.com/iurysza/module-graph)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iurysza&repo=livematch&show_icons=true&theme=dracula)](https://github.com/iurysza/livematch)
+
+
+
+### Featured articles
 
 ![](https://androidweekly.net/issues/issue-646/badge)
+
 ![](https://androidweekly.net/issues/issue-627/badge)
+
 ![](https://androidweekly.net/issues/issue-564/badge)
 
-More ramblings at: [iurysouza.dev](https://iurysouza.dev)
+And Kotlin Weekly issues [411](https://mailchi.mp/kotlinweekly/kotlin-weekly-411), [397](https://mailchi.mp/kotlinweekly/kotlin-weekly-397), [347](https://mailchi.mp/kotlinweekly/kotlin-weekly-347), [300](https://mailchi.mp/kotlinweekly/kotlin-weekly-300), more ramblings at: [iurysouza.dev](https://iurysouza.dev)
 
-#### Conference talks
+### Conference talks
 
 [![Droidcon San Francisco 2023](https://img.shields.io/static/v1?label=&message=Droidcon%20San%20Francisco%202023&color=555&logo=android&logoColor=000000)](https://www.droidcon.com/2023/07/20/crash-course-in-building-your-first-gradle-plugin/)
 [![Droidcon Berlin 2023](https://img.shields.io/static/v1?label=&message=Droidcon%20Berlin%202023&color=555&logo=android&logoColor=3FE4C5)](https://www.droidcon.com/2023/08/01/crash-course-in-building-your-first-gradle-plugin-2/)
@@ -29,30 +40,4 @@ More ramblings at: [iurysouza.dev](https://iurysouza.dev)
 
 
 
-<!--
-**iurysza/iurysza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-
-
-
-
-
-
--->
-#### Currently active on
-
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iurysza&repo=module-graph&show_icons=true&theme=dracula)](https://github.com/iurysza/module-graph)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iurysza&repo=livematch&show_icons=true&theme=dracula)](https://github.com/iurysza/livematch)
