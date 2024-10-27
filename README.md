@@ -6,7 +6,15 @@ Hands on experience with most of the mobile tech stack and nearly a decade worki
 
 Feel free to reach out :v:.
 
-#### My last talks
+#### Featured articles
+
+![](https://androidweekly.net/issues/issue-646/badge)
+![](https://androidweekly.net/issues/issue-627/badge)
+![](https://androidweekly.net/issues/issue-564/badge)
+
+More ramblings at: [iurysouza.dev](https://iurysouza.dev)
+
+#### Conference talks
 
 [![Droidcon San Francisco 2023](https://img.shields.io/static/v1?label=&message=Droidcon%20San%20Francisco%202023&color=555&logo=android&logoColor=000000)](https://www.droidcon.com/2023/07/20/crash-course-in-building-your-first-gradle-plugin/)
 [![Droidcon Berlin 2023](https://img.shields.io/static/v1?label=&message=Droidcon%20Berlin%202023&color=555&logo=android&logoColor=3FE4C5)](https://www.droidcon.com/2023/08/01/crash-course-in-building-your-first-gradle-plugin-2/)
