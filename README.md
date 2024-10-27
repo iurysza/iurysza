@@ -17,11 +17,11 @@ Feel free to reach out :v:.
 
 ### Featured articles
 
-![](https://androidweekly.net/issues/issue-646/badge)
+[![](https://androidweekly.net/issues/issue-646/badge)](https://androidweekly.net/issues/issue-646/)
 
-![](https://androidweekly.net/issues/issue-627/badge)
+[![](https://androidweekly.net/issues/issue-627/badge)](https://androidweekly.net/issues/issue-627)
 
-![](https://androidweekly.net/issues/issue-564/badge)
+[![](https://androidweekly.net/issues/issue-564/badge)](https://androidweekly.net/issues/issue-564)
 
 And Kotlin Weekly issues [411](https://mailchi.mp/kotlinweekly/kotlin-weekly-411), [397](https://mailchi.mp/kotlinweekly/kotlin-weekly-397), [347](https://mailchi.mp/kotlinweekly/kotlin-weekly-347), [300](https://mailchi.mp/kotlinweekly/kotlin-weekly-300), more ramblings at: [iurysouza.dev](https://iurysouza.dev)
 
