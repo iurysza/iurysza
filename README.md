@@ -17,6 +17,7 @@ Feel free to reach out :v:.
 
 ### Featured articles
 
+[![](https://androidweekly.net/issues/issue-648/badge)]
 [![](https://androidweekly.net/issues/issue-646/badge)](https://androidweekly.net/issues/issue-646/) [![](https://androidweekly.net/issues/issue-627/badge)](https://androidweekly.net/issues/issue-627)
 [![](https://androidweekly.net/issues/issue-564/badge)](https://androidweekly.net/issues/issue-564)
 
