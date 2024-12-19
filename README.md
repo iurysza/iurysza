@@ -8,6 +8,10 @@ Feel free to reach out :v:.
 
 ### Currently active on
 
+[Audioguide-AI](https://bsky.app/profile/iurysouza.dev/post/3lcpuhv7jjs2e)
+
+_(Updates on the thread above - Still need a proper name, rly)_
+
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iurysza&repo=module-graph&show_icons=true&theme=dracula)](https://github.com/iurysza/module-graph)
 
