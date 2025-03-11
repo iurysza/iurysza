@@ -2,7 +2,7 @@
 
 I'm a mobile enthusiast turned Software Engineer & [GDE](https://developers.google.com/community/experts) for Android. 
 
-Hands on experience with most of the mobile tech stack and nearly a decade working in this space. Tech curious and craftsmanship advocate.
+Hands on experience with most of the mobile tech stack and nearly a decade working in this space. Tech curious, cares about code, likes to build stuff.
 
 Feel free to reach out :v:.
 
