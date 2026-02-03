@@ -2,7 +2,8 @@
 
 I'm a mobile enthusiast turned Software Engineer & [GDE](https://developers.google.com/community/experts) for Android. 
 
-Hands on experience with most of the mobile tech stack and nearly a decade working in this space. Tech curious, cares about code, likes to build stuff.
+Hands on experience with most of the mobile tech stack and a decade working in this space. 
+Tech curious, cares about code, likes to build stuff. Tinkering with local llms and agentic-coding atm.
 
 Feel free to reach out :v:.
 
@@ -12,9 +13,7 @@ Feel free to reach out :v:.
 
 _(Updates on the thread above - Still need a proper name, rly)_
 
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iurysza&repo=module-graph&show_icons=true&theme=dracula)](https://github.com/iurysza/module-graph)
-
+I share stuff on my socials and on my [blog](https://iurysouza.dev/).
 
 
 ### Featured articles
