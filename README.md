@@ -3,26 +3,31 @@
 I'm a tech enthusiast turned Software Engineer & [GDE](https://developers.google.com/community/experts). 
 
 Hands on experience with most of the mobile tech stack and a decade working in this space. 
-Tech curious, cares about code, likes to build stuff. Tinkering with local llms and agentic-coding atm.
+Tech curious, cares about code, likes to build stuff. Tinkering agents and experimental agentic-coding atm.
 
-Feel free to reach out :v:.
+## Open source
 
-### Where to find me
+- 🎨 [**visual-artifact-renderer**](https://github.com/iurysza/visual-artifact-renderer): Turns constrained JSON into polished reports, explainers, code reviews, and dashboards without letting models freestyle HTML.
+- 🔎 [**termscope**](https://github.com/iurysza/termscope): Opens files and links already visible in terminal output.
+- 🪟 [**ULTRA**](https://github.com/iurysza/ultra): A minimal keyboard-driven macOS window manager built for ultrawide monitors and my refusal to drag windows around.
+- 🧩 [**module-graph**](https://github.com/iurysza/module-graph): A Gradle plugin that generates Mermaid architecture graphs from actual project module dependencies.
+- 🤖 [**android-use**](https://github.com/iurysza/android-use): A CLI and agent skill that gives agents a compact, structured interface to Android devices instead of making them wrestle with raw ADB output.
+## Writing and speaking
 
-I often write share articles on agentic coding on my [newsletter](https://newsletter.iurysouza.dev/)
-I share random thoughts on my socials and on my [blog](https://iurysouza.dev/).
+I write about agentic coding in my [newsletter](https://newsletter.iurysouza.dev/). Shorter notes and random thoughts live on my [blog](https://iurysouza.dev/).
 
-### Podcast 🎙️
+You can find my recorded talks [here](https://iurysouza.dev/speaking/).
 
-Since episode 300 I co-host the [Fragmented Podcast](https://fragmentedpodcast.com/)
+## Podcast 🎙️
 
-### Featured articles
+I've co-hosted the [Fragmented Podcast](https://fragmentedpodcast.com/) since episode 300.
 
-[![](https://androidweekly.net/issues/issue-648/badge)](https://androidweekly.net/issues/issue-648/)
-[![](https://androidweekly.net/issues/issue-646/badge)](https://androidweekly.net/issues/issue-646/) [![](https://androidweekly.net/issues/issue-627/badge)](https://androidweekly.net/issues/issue-627)
-[![](https://androidweekly.net/issues/issue-564/badge)](https://androidweekly.net/issues/issue-564)
+## Featured writing
 
-And Kotlin Weekly issues [#411](https://mailchi.mp/kotlinweekly/kotlin-weekly-411), [#397](https://mailchi.mp/kotlinweekly/kotlin-weekly-397), [#347](https://mailchi.mp/kotlinweekly/kotlin-weekly-347), [#300](https://mailchi.mp/kotlinweekly/kotlin-weekly-300), [#280](https://mailchi.mp/kotlinweekly/kotlin-weekly-280)
+My articles have been featured in:
 
-### Speaking
-Find my recorded talks [here](https://iurysouza.dev/speaking/).
+- Android Weekly [#648](https://androidweekly.net/issues/issue-648/), [#646](https://androidweekly.net/issues/issue-646/), [#627](https://androidweekly.net/issues/issue-627), and [#564](https://androidweekly.net/issues/issue-564)
+- Kotlin Weekly [#411](https://mailchi.mp/kotlinweekly/kotlin-weekly-411), [#397](https://mailchi.mp/kotlinweekly/kotlin-weekly-397), [#347](https://mailchi.mp/kotlinweekly/kotlin-weekly-347), [#300](https://mailchi.mp/kotlinweekly/kotlin-weekly-300), and [#280](https://mailchi.mp/kotlinweekly/kotlin-weekly-280)
+
+
+Find me on [X](https://x.com/iurysza) or connect on [LinkedIn](https://www.linkedin.com/in/iurysouza/)
