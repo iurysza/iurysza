@@ -9,6 +9,7 @@ Tech curious, cares about code, likes to build stuff. Tinkering agents and exper
 
 - 🎨 [**visual-artifact-renderer**](https://github.com/iurysza/visual-artifact-renderer): Turns constrained JSON into polished reports, explainers, code reviews, and dashboards without letting models freestyle HTML.
 - 🔎 [**termscope**](https://github.com/iurysza/termscope): Opens files and links already visible in terminal output.
+- ⛽ [pi-token-tank](https://github.com/iurysza/pi-token-tank): Your token mileage at a glance
 - 🪟 [**ULTRA**](https://github.com/iurysza/ultra): A minimal keyboard-driven macOS window manager built for ultrawide monitors and my refusal to drag windows around.
 - 🧩 [**module-graph**](https://github.com/iurysza/module-graph): A Gradle plugin that generates Mermaid architecture graphs from actual project module dependencies.
 - 🤖 [**android-use**](https://github.com/iurysza/android-use): A CLI and agent skill that gives agents a compact, structured interface to Android devices instead of making them wrestle with raw ADB output.
