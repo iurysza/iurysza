@@ -21,7 +21,7 @@ You can find my recorded talks [here](https://iurysouza.dev/speaking/).
 
 ## Podcast 🎙️
 
-I've co-hosted the [Fragmented Podcast](https://fragmentedpodcast.com/) since episode 300.
+I co-host the [Fragmented Podcast](https://fragmentedpodcast.com/) since episode 300.
 
 ## Featured writing
 
