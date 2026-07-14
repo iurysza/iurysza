@@ -14,7 +14,7 @@ Tech curious, cares about code, likes to build stuff. Tinkering agents and exper
 - ⛽ [pi-token-tank](https://github.com/iurysza/pi-token-tank): Your token mileage at a glance
 - 🪟 [**ULTRA**](https://github.com/iurysza/ultra): A minimal keyboard-driven macOS window manager particularly good for ultra wide monitors.
 - 🧩 [**module-graph**](https://github.com/iurysza/module-graph): A Gradle plugin that generates Mermaid architecture graphs from actual project module dependencies.
-- 🤖 [**android-use**](https://github.com/iurysza/android-use): A CLI and agent skill that gives agents a compact, structured interface to Android devices instead of making them wrestle with raw ADB output.
+- 🤖 [**android-use**](https://github.com/iurysza/android-use): A CLI and agent skill that gives agents a compact, structured interface to Android devices.
 ## Writing and speaking
 
 I write about agentic coding in my [newsletter](https://newsletter.iurysouza.dev/). Shorter notes and random thoughts live on my [blog](https://iurysouza.dev/).
