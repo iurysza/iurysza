@@ -7,7 +7,7 @@ Tech curious, cares about code, likes to build stuff. Tinkering agents and exper
 
 ## Open source
 
-- 🎨 [**visual-artifact-renderer**](https://github.com/iurysza/visual-artifact-renderer): Turns constrained JSON into polished reports, explainers, code reviews, and dashboards without letting models freestyle HTML.
+- 🎨 [**visual-artifact-renderer**](https://github.com/iurysza/visual-artifact-renderer): Agent Generated polished reports, explainers, code reviews, and dashboards.
 - 🔎 [**termscope**](https://github.com/iurysza/termscope): Opens files and links already visible in terminal output.
 - 🖥️ [**herdr-pane-layouts**](https://github.com/iurysza/herdr-pane-layouts): Seamless tmux-style pane resizing and layouts for Herdr.
 - 🪄 [**herdr-tab-smart-rename**](https://github.com/iurysza/herdr-tab-smart-rename): Autorename Herdr tabs with short, context-aware task based names.
