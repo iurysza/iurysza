@@ -5,7 +5,7 @@ I'm a tech enthusiast turned Software Engineer & [GDE](https://developers.google
 Hands on experience with most of the mobile tech stack and a decade working in this space. 
 Tech curious, cares about code, likes to build stuff. Tinkering agents and experimental agentic-coding atm.
 
-## Open source
+## Tinkering/Sharing
 
 - 🎨 [**visual-artifact-renderer**](https://github.com/iurysza/visual-artifact-renderer): Agent Generated polished reports, explainers, code reviews, and dashboards.
 - 🔎 [**termscope**](https://github.com/iurysza/termscope): Opens files and links already visible in terminal output.
