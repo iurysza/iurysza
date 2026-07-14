@@ -12,7 +12,7 @@ Tech curious, cares about code, likes to build stuff. Tinkering agents and exper
 - 🖥️ [**herdr-pane-layouts**](https://github.com/iurysza/herdr-pane-layouts): Seamless tmux-style pane resizing and layouts for Herdr.
 - 🪄 [**herdr-tab-smart-rename**](https://github.com/iurysza/herdr-tab-smart-rename): Autorename Herdr tabs with short, context-aware task based names.
 - ⛽ [pi-token-tank](https://github.com/iurysza/pi-token-tank): Your token mileage at a glance
-- 🪟 [**ULTRA**](https://github.com/iurysza/ultra): A minimal keyboard-driven macOS window manager built for ultrawide monitors and my refusal to drag windows around.
+- 🪟 [**ULTRA**](https://github.com/iurysza/ultra): A minimal keyboard-driven macOS window manager particularly good for ultra wide monitors.
 - 🧩 [**module-graph**](https://github.com/iurysza/module-graph): A Gradle plugin that generates Mermaid architecture graphs from actual project module dependencies.
 - 🤖 [**android-use**](https://github.com/iurysza/android-use): A CLI and agent skill that gives agents a compact, structured interface to Android devices instead of making them wrestle with raw ADB output.
 ## Writing and speaking
