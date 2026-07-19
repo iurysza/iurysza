@@ -9,6 +9,7 @@ Tech curious, cares about code, likes to build stuff. Tinkering agents and exper
 
 - 🎨 [**visual-artifact-renderer**](https://github.com/iurysza/visual-artifact-renderer): Agent Generated polished reports, explainers, code reviews, and dashboards.
 - 🧰 [**agent-skills**](https://github.com/iurysza/agent-skills): Portable Agent Skills for safer tool installation, clearer writing, and skill-library audits.
+- 👻 [pi-ghost-in-the-machine](https://github.com/iurysza/pi-ghost-in-the-machine): A ghost face that reacts to Pi agent states
 - 🔎 [**termscope**](https://github.com/iurysza/termscope): Opens files and links already visible in terminal output.
 - 🖥️ [**herdr-pane-layouts**](https://github.com/iurysza/herdr-pane-layouts): Seamless tmux-style pane resizing and layouts for Herdr.
 - 🪄 [**herdr-tab-smart-rename**](https://github.com/iurysza/herdr-tab-smart-rename): Autorename Herdr tabs with short, context-aware task based names.
@@ -24,7 +25,7 @@ You can find my recorded talks [here](https://iurysouza.dev/speaking/).
 
 ## Podcast 🎙️
 
-I co-host the [Fragmented Podcast](https://fragmentedpodcast.com/) since episode 300.
+I co-host the [Fragmented Podcast](https://fragmentedpodcast.com/) alongside @[Kaushik](https://github.com/kaushikgopal) since episode 300.
 
 ## Featured writing
 
