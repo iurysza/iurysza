@@ -7,16 +7,21 @@ Tech curious, cares about code, likes to build stuff. Tinkering agents and exper
 
 ## Tinkering/Sharing
 
+**Agentic coding**
 - 🎨 [**visual-artifact-renderer**](https://github.com/iurysza/visual-artifact-renderer): Agent Generated polished reports, explainers, code reviews, and dashboards.
 - 🧰 [**agent-skills**](https://github.com/iurysza/agent-skills): Portable Agent Skills for safer tool installation, clearer writing, and skill-library audits.
 - 👻 [pi-ghost-in-the-machine](https://github.com/iurysza/pi-ghost-in-the-machine): A ghost face that reacts to Pi agent states
+- ⛽ [pi-token-tank](https://github.com/iurysza/pi-token-tank): Your token mileage at a glance
+- [pi-ext](https://github.com/iurysza/pi-ext): A comprehensive Pi toolbox
 - 🔎 [**termscope**](https://github.com/iurysza/termscope): Opens files and links already visible in terminal output.
 - 🖥️ [**herdr-pane-layouts**](https://github.com/iurysza/herdr-pane-layouts): Seamless tmux-style pane resizing and layouts for Herdr.
 - 🪄 [**herdr-tab-smart-rename**](https://github.com/iurysza/herdr-tab-smart-rename): Autorename Herdr tabs with short, context-aware task based names.
-- ⛽ [pi-token-tank](https://github.com/iurysza/pi-token-tank): Your token mileage at a glance
+- 🤖 [**android-use**](https://github.com/iurysza/android-use): A CLI and agent skill that gives agents a compact, structured interface to Android devices.
+
+**Others**
 - 🪟 [**ULTRA**](https://github.com/iurysza/ultra): A minimal keyboard-driven macOS window manager particularly good for ultra wide monitors.
 - 🧩 [**module-graph**](https://github.com/iurysza/module-graph): A Gradle plugin that generates Mermaid architecture graphs from actual project module dependencies.
-- 🤖 [**android-use**](https://github.com/iurysza/android-use): A CLI and agent skill that gives agents a compact, structured interface to Android devices.
+
 ## Writing and speaking
 
 I write about agentic coding in my [newsletter](https://newsletter.iurysouza.dev/). Shorter notes and random thoughts live on my [blog](https://iurysouza.dev/).
