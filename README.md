@@ -10,11 +10,11 @@ Tech curious, cares about code, likes to build stuff. Tinkering agents and exper
 **Agentic coding**
 - 🎨 [**visual-artifact-renderer**](https://github.com/iurysza/visual-artifact-renderer): Agent Generated polished reports, explainers, code reviews, and dashboards.
 - 🧰 [pi-extensions](https://github.com/iurysza/pi-extensions): A Pi toolbox adapted to my workflow.
-- 🪄 [**herdr-tab-smart-rename**](https://github.com/iurysza/herdr-tab-smart-rename): Autorename Herdr tabs with short, context-aware task based names.
 - 👻 [pi-ghost-in-the-machine](https://github.com/iurysza/pi-ghost-in-the-machine): A ghost face that reacts to Pi agent states -> Moved to pi-extensions monorepo
 - ⛽ [pi-token-tank](https://github.com/iurysza/pi-token-tank): Your token mileage at a glance -> Moved to pi-extensions monorepo
 - 🧠 [**agent-skills**](https://github.com/iurysza/agent-skills): Portable Agent Skills.
 - 🔎 [**termscope**](https://github.com/iurysza/termscope): Opens files and links already visible in terminal output.
+- 🪄 [**herdr-tab-smart-rename**](https://github.com/iurysza/herdr-tab-smart-rename): Autorename Herdr tabs with short, context-aware task based names.
 - 🖥️ [**herdr-pane-layouts**](https://github.com/iurysza/herdr-pane-layouts): Seamless tmux-style pane resizing and layouts for Herdr.
 - 🤖 [**android-use**](https://github.com/iurysza/android-use): A CLI and agent skill that gives agents a compact, structured interface to Android devices.
 
