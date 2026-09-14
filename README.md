@@ -14,7 +14,9 @@ Tech curious, cares about code, likes to build stuff. Tinkering agents and exper
 - 🧠 [**agent-skills**](https://github.com/iurysza/agent-skills): Portable Agent Skills.
 - 🔎 [**termscope**](https://github.com/iurysza/termscope): Opens files and links already visible in terminal output.
 - 🪄 [**herdr-tab-smart-rename**](https://github.com/iurysza/herdr-tab-smart-rename): Autorename Herdr tabs with short, context-aware task based names.
+- 🗂️ [**tab-declutter**](https://github.com/iurysza/tab-declutter): Turns open browser tabs into clear, named groups with your chosen LLM.
 - 🖥️ [**herdr-pane-layouts**](https://github.com/iurysza/herdr-pane-layouts): Seamless tmux-style pane resizing and layouts for Herdr.
+- 🧱 [**herdr-mosaic**](https://github.com/iurysza/herdr-mosaic): Experimental Herdr plugin for space colors, agent grouping, and pane layouts.
 - 🤖 [**android-use**](https://github.com/iurysza/android-use): A CLI and agent skill that gives agents a compact, structured interface to Android devices.
 
 **Others**
