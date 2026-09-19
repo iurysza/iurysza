@@ -9,6 +9,7 @@ Tech curious, cares about code, likes to build stuff. Tinkering agents and exper
 
 **Agentic coding**
 - 🎨 [**visual-artifact-renderer**](https://github.com/iurysza/visual-artifact-renderer): Agent Generated polished reports, explainers, code reviews, and dashboards.
+- [>] [**pi-voice**](https://github.com/iurysza/pi-voice): Talk to Pi; it delegates real coding work and speaks the useful result back.
 - 🧰 [pi-extensions](https://github.com/iurysza/pi-extensions): A Pi toolbox adapted to my workflow.
 - ⏰ [clockwork](https://github.com/iurysza/clockwork): Schedule agent runs and code execution in a predictable way.
 - 🧠 [**agent-skills**](https://github.com/iurysza/agent-skills): Portable Agent Skills.
