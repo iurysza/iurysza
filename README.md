@@ -24,6 +24,7 @@ Tech curious, cares about code, likes to build stuff. Tinkering agents and exper
 - 🪟 [**ULTRA**](https://github.com/iurysza/ultra): A minimal keyboard-driven macOS window manager particularly good for ultra wide monitors.
 - 🧩 [**module-graph**](https://github.com/iurysza/module-graph): A Gradle plugin that generates Mermaid architecture graphs from actual project module dependencies.
 - 🧜 [**nice-mermaid.nvim**](https://github.com/iurysza/nice-mermaid.nvim): Renders Mermaid diagrams as Unicode terminal art inside Neovim.
+- 🐆 [**logcayo**](https://github.com/iurysza/logcayo): A keyboard-driven terminal viewer for Android logs, with record/replay and an agent-friendly query CLI.
 
 ## Writing and speaking
 
